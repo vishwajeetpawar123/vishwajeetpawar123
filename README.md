@@ -51,8 +51,28 @@ I'm a **dedicated coding enthusiast** on a journey of continuous learning and ex
 <div align="center">
   <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=vishwajeetpawar123&show_icons=true&theme=radical&include_all_commits=true"/>
   
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=vishwajeetpawar123&layout=compact&langs_count=8&theme=radical"/>
+
+
+ <h3>Frontend languages</h3>
+  <img height="170em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=vishwajeetpawar123&layout=compact&langs_count=6&theme=radical&hide=c,c++,python,java,rust,go,php,ruby,c#,kotlin,swift,jupyter%20notebook" alt="Frontend Stats"/>
+
+ <h3>Backend languages</h3>
+  <img height="170em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=vishwajeetpawar123&layout=compact&langs_count=6&theme=radical&hide=javascript,html,css,typescript,scss,less,vue,svelte" alt="Backend Stats"/>
+
+
+<br/>
+
+<div align="center">
+  <h3>💻 Tech Stack</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,py,js,html,css,react,git,github,vscode,nodejs,npm&perline=9" />
+  </a>
 </div>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vishwajeetpawar123&theme=radical" />
+</div>
+</div>
+
 
 ---
 
