@@ -49,8 +49,9 @@ I'm a **dedicated coding enthusiast** on a journey of continuous learning and ex
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vishwajeetpawar123&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwajeetpawar123&layout=compact&theme=radical" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=vishwajeetpawar123&show_icons=true&theme=radical&include_all_commits=true"/>
+  
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=vishwajeetpawar123&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
 ---
@@ -78,7 +79,7 @@ I'm a **dedicated coding enthusiast** on a journey of continuous learning and ex
 
 ## 🎨 Pinned Projects
 
-Check out my pinned repositories above! They showcase my best work and my journey as a developer.
+Check out my pinned repositories below! They showcase my best work and my journey as a developer.
 
 ---
 
