@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm **Vishwajeet Vijay Pawar**
+# 👋 Hey there! I'm **Vishwajeet_Pawar**
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=100&multiline=true&width=1000&height=100&lines=Phytoplankton+produces+50%+to+80%+of+Earth's+oxygen+through+photosynthesis;And+you+are+currently+wasting+their+efforts;Check+out+my+repoS+and+Organisation+TO+MAKE+IT+WORTH,," alt="Typing SVG" />
