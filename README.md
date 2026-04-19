@@ -16,7 +16,7 @@ I'm a **dedicated coding enthusiast** on a journey of continuous learning and ex
 - 🤝 **Collaborating** on open source projects
 - 📚 **Learning** everything computers have to offer
 - ✨ Making an **impact** through code
-- NICOTINE
+
 
 ---
 
