@@ -50,7 +50,7 @@ I'm a **dedicated coding enthusiast** on a journey of continuous learning and ex
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=vishwajeetpawar123&show_icons=true&theme=radical&include_all_commits=true"/>
+  <img src="https://codewar.dev/api/svg?users=vishwajeetpawar123&range=3m&self=vishwajeetpawar123&theme=dark"/>
   
 
 
